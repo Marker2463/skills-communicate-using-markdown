@@ -1,5 +1,5 @@
-#Daily Leanring
-##Morning Planning
+# Daily Learning 
+## Morning Planning
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
@@ -7,7 +7,7 @@
 
 <img src =https://octodex.github.com/images/cloud.jpg alt="cloudy morning" hieght="100" width="100">
 
-##Review
+## Review
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
